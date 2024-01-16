@@ -1,2 +1,2 @@
-# Traffic ki mummy
+# Traffic runner Game
 a infinite traffic runner game project, made for practice
